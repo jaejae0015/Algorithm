@@ -1,0 +1,57 @@
+# 컴파일된 클래스 파일
+*.class
+
+# 로그 파일
+*.log
+
+# 패키징 파일
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 가상 머신 크래시 로그
+hs_err_pid*
+
+# Maven 관련 파일
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle 관련 파일
+.gradle/
+build/
+
+# Eclipse 관련 파일 및 설정
+.project
+.classpath
+.settings/
+
+# IntelliJ 관련 파일 및 폴더
+.idea/
+*.iml
+out/
+
+# NetBeans 관련 파일 및 폴더
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Visual Studio Code 설정
+.vscode/
+
+# 운영체제에서 생성되는 파일
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.swp
+*.tmp
